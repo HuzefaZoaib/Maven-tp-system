@@ -1,0 +1,12 @@
+.metadata
+.recommenders
+RemoreSystemsTempFiles
+.settings
+.project
+.classpath
+otp-tp-system/.settings
+otp-tp-system/.project
+otp-tp-system/.classpath
+tp-system-dao/.settings
+tp-system-dao/.project
+tp-system-dao/.classpath
